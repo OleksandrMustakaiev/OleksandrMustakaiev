@@ -1,6 +1,7 @@
 - <h2>👋 Hi, I’m Oleksandr Mustakaiev</h2>
 
-<h3>LinkedIn Profile</h3>
+<h3>LinkedIn Profile:</h3>
+https://www.linkedin.com/in/oleksandr-mustakaiev/
 
 <h3>Languages and Tools:</h3>
 
