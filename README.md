@@ -1,4 +1,4 @@
-- <h2>👋 Hi, I’m OleksandrMustakaiev</h2>
+- <h2>👋 Hi, I’m Oleksandr Mustakaiev</h2>
 
 <!---
 OleksandrMustakaiev/OleksandrMustakaiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
