@@ -1,5 +1,4 @@
 <h2><b>👋 Hi, I’m Oleksandr Mustakaiev</b></h2>
-<h1></h1>
 
 <h3><b>LinkedIn Profile:</b></h3>
 <a href='https://www.linkedin.com/in/oleksandr-mustakaiev/'><img src='icons/linkedin.png' weight='25' height='25'></a>
