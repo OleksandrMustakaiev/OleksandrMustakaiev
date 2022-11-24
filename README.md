@@ -28,18 +28,6 @@
 <a href='https://www.figma.com'><img src='icons/figma.png' weight='25' height='25'></a>
 <a href='https://laravel.com'><img src='icons/laravel.png' weight='25' height='25'></a>
 <a href='https://www.docker.com'><img src='icons/docker.png' weight='25' height='25'></a>
-
-
-<style>
-    .top{
-        color:;
-        display: flex;
-        justify-content: center;
-    }
-    a{
-        margin-right: 10px;
-    }
-</style>
 <!---
 OleksandrMustakaiev/OleksandrMustakaiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
